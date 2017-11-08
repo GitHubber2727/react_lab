@@ -1,0 +1,39 @@
+.GraphBar {
+    display: flex;
+    justify-content: flex-start;
+    padding: 25px;
+}
+
+.label {
+    border: navy 1px solid;
+    width: 70px;
+    margin-right: 20px;
+    padding: 10px;
+    background-color: darkgrey;
+    border-radius: 5px;
+    color: whitesmoke;
+
+}
+
+.value {
+    border: black 1px solid;
+    width: 100px;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 5px;
+    
+
+}
+
+body {
+    background-color: cornsilk;
+}
+
+button {
+    background-color: midnightblue;
+    color: whitesmoke;
+    padding: 10px;
+    width: 150px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
